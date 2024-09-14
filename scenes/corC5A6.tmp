@@ -1,0 +1,11 @@
+[gd_scene load_steps=3 format=3 uid="uid://coiv6alra2ctx"]
+
+[ext_resource type="Texture2D" uid="uid://k7bf1ao1igv0" path="res://assets/sprites/core-really-bright-red.png" id="1_igjhw"]
+[ext_resource type="Script" path="res://scenes/core.gd" id="1_yiadl"]
+
+[node name="core" type="Node2D"]
+script = ExtResource("1_yiadl")
+
+[node name="coreImage" type="Sprite2D" parent="."]
+scale = Vector2(3.6, 3.6)
+texture = ExtResource("1_igjhw")

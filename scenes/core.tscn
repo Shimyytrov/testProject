@@ -7,5 +7,5 @@
 script = ExtResource("1_yiadl")
 
 [node name="coreImage" type="Sprite2D" parent="."]
-scale = Vector2(3.6, 3.6)
+scale = Vector2(4, 4)
 texture = ExtResource("1_igjhw")

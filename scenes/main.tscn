@@ -8,7 +8,7 @@
 
 [node name="back" type="Sprite2D" parent="."]
 texture_filter = 1
-scale = Vector2(3.6, 3.6)
+scale = Vector2(4, 4)
 texture = ExtResource("2_rax5j")
 centered = false
 
@@ -18,6 +18,6 @@ position = Vector2(379, 368)
 
 [node name="pipe" type="Sprite2D" parent="."]
 texture_filter = 1
-scale = Vector2(3.6, 3.6)
+scale = Vector2(4, 4)
 texture = ExtResource("3_6fnfw")
 centered = false
